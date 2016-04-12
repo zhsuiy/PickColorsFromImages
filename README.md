@@ -4,6 +4,7 @@ Pick colors from images.
 ==============================
 
 Usage: 
+
 1. Choose several images. 
 
 2. Pick colors. 
